@@ -1,0 +1,6 @@
+{
+  "name": "Airport Wake Category Analysis Dashboard",
+  "description": "Conceptual multi-runway traffic mix and wake vortex category analysis dashboard with Power BI style visuals for runways 15L/33R, 15C/33C, and 15R/33L.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
